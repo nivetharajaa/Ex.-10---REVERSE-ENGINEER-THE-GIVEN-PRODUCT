@@ -32,11 +32,15 @@
 
 ## Input:
 
+![Uploading image.png…]()
+
 ### Output:
 
+![image](https://github.com/nivetharajaa/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120543388/91121005-d3d3-4d0b-989c-22e16c9f5773)
 
-### Name:
-### Register Number:
+### Name:NIVETHA A
+### Register Number:212222230101
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
