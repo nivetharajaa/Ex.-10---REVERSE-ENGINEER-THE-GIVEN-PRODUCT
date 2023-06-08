@@ -32,7 +32,8 @@
 
 ## Input:
 
-![Uploading image.png…]()
+![image](https://github.com/nivetharajaa/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120543388/ea67b6d3-22f4-4dbc-b95d-52a16609facc)
+
 
 ### Output:
 
